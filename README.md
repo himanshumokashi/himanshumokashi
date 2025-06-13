@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @himanshumokashi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Next-js
-- 💞️ I’m looking to collaborate on side-projects
 - 📫 How to reach me himanshumokashi1622@gmail.com
 
 <!---
