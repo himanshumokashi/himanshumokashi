@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himanshumokashi
-- 👀 I’m interested in Coding
+- 👀 I’m Interested to learn new things
 - 📫 How to reach me himanshumokashi1622@gmail.com
 
 <!---
